@@ -1,4 +1,4 @@
-**This template is NOT for newbies/noobs, it is for experience modders and programmers only. You will be expected to read, learn and even google. If you don't have the knowledge, this tutorial will be too hard for you**
+AmongUs Mod(Android, ARM64)
 
 # Features
 ## Player
@@ -34,4 +34,4 @@ No ads
 No leave penalty  
 
 # References
-[LGLTeam](https://github.com/LGLTeam/Android-Mod-Menu)
+[LGLTeam, Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu)
