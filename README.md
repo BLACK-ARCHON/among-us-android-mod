@@ -1,6 +1,6 @@
-AmongUs Mod
-OS: Android
-Architecture: ARM64
+AmongUs Mod  
+OS: Android  
+Architecture: ARM64  
 Target Version: 2020.9.9s
 
 [Core](https://github.com/BLACK-ARCHON/among-us-android-mod/tree/master/app/src/main/jni/src/Runtime)
