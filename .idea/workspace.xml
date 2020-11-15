@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Mod_Menu" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fec15e53-b095-47c4-9f26-b0776affe2fb" name="Default Changelist" comment="N/A">
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/BaseObject.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/BaseObject.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/ChatController.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/ChatController.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/InfectedOverlay.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/InfectedOverlay.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/InnerNetClient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/InnerNetClient.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/KillButtonManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/KillButtonManager.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/MapRoom.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/MapRoom.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/MeetingHud.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/MeetingHud.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/NoShadowBehaviour.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/NoShadowBehaviour.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/PlayerControl.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/PlayerControl.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/PlayerInfo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/PlayerInfo.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/SabotageSystemType.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/SabotageSystemType.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/SaveManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/SaveManager.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/ShhhBehaviour.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/ShhhBehaviour.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/StatsManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/StatsManager.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/UnityEngine.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jni/src/Runtime/UnityEngine.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/src/Includes/Logger.h" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/src/Includes/Logger.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/src/Includes/Utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/src/Includes/Utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/src/KittyMemory/KittyMemory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/src/KittyMemory/KittyMemory.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/src/KittyMemory/KittyMemory.h" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/src/KittyMemory/KittyMemory.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/src/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/src/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1heIrz4vuGEnDXfQjaQSuEU3VI2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/jni/src" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/jni/src/Runtime" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/jni/src" />
+      <recent name="$PROJECT_DIR$/app/src/main/jni/src/Runtime" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Android-Mod-Menu.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fec15e53-b095-47c4-9f26-b0776affe2fb" name="Default Changelist" comment="" />
+      <created>1600365333175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600365333175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.mk" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="N/A" />
+    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1187" y="430" width="1600" height="1378" key="#New_File_Extensions" timestamp="1601527255009">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1187" y="430" width="1600" height="1378" key="#New_File_Extensions/144.54.3696.2106@144.54.3696.2106" timestamp="1601527255009" />
+    <state x="1037" y="557" width="1900" height="1084" key="#PSD" timestamp="1600521536197">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1037" y="557" width="1900" height="1084" key="#PSD/144.54.3696.2106@144.54.3696.2106" timestamp="1600521536197" />
+    <state x="1098" y="376" width="1777" height="1466" key="CommitChangelistDialog2" timestamp="1600545367802">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1098" y="376" width="1777" height="1466" key="CommitChangelistDialog2/144.54.3696.2106@144.54.3696.2106" timestamp="1600545367802" />
+    <state x="144" y="244" width="3496" height="1916" key="DiffContextDialog" timestamp="1601609289594">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="144" y="244" width="3496" height="1916" key="DiffContextDialog/144.54.3696.2106@144.54.3696.2106" timestamp="1601609289594" />
+    <state x="1557" y="613" width="848" height="1047" key="FileChooserDialogImpl" timestamp="1601526419823">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1557" y="613" width="848" height="1047" key="FileChooserDialogImpl/144.54.3696.2106@144.54.3696.2106" timestamp="1601526419823" />
+    <state width="3608" height="551" key="GridCell.Tab.0.bottom" timestamp="1602093696462">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state width="3608" height="551" key="GridCell.Tab.0.bottom/144.54.3696.2106@144.54.3696.2106" timestamp="1602093696462" />
+    <state width="3608" height="551" key="GridCell.Tab.0.center" timestamp="1602093696462">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state width="3608" height="551" key="GridCell.Tab.0.center/144.54.3696.2106@144.54.3696.2106" timestamp="1602093696462" />
+    <state width="3608" height="551" key="GridCell.Tab.0.left" timestamp="1602093696461">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state width="3608" height="551" key="GridCell.Tab.0.left/144.54.3696.2106@144.54.3696.2106" timestamp="1602093696461" />
+    <state width="3608" height="551" key="GridCell.Tab.0.right" timestamp="1602093696462">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state width="3608" height="551" key="GridCell.Tab.0.right/144.54.3696.2106@144.54.3696.2106" timestamp="1602093696462" />
+    <state x="1163" y="579" width="1648" height="1040" key="IDE.errors.dialog" timestamp="1602967895960">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1163" y="579" width="1648" height="1040" key="IDE.errors.dialog/144.54.3696.2106@144.54.3696.2106" timestamp="1602967895960" />
+    <state x="1410" y="869" width="1153" height="499" key="ScreenshotRecorder.Options.Dimensions" timestamp="1601876795951">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1410" y="869" width="1153" height="499" key="ScreenshotRecorder.Options.Dimensions/144.54.3696.2106@144.54.3696.2106" timestamp="1601876795951" />
+    <state x="1667" y="227" width="2008" height="1484" key="SettingsEditor" timestamp="1600971594067">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1667" y="227" width="2008" height="1484" key="SettingsEditor/144.54.3696.2106@144.54.3696.2106" timestamp="1600971594067" />
+    <state x="244" y="114" width="3496" height="1916" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600971893016">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="244" y="114" width="3496" height="1916" key="com.android.tools.idea.avdmanager.AvdListDialog/144.54.3696.2106@144.54.3696.2106" timestamp="1600971893016" />
+    <state x="1536" y="926" width="911" height="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601911067729">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1536" y="926" width="911" height="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/144.54.3696.2106@144.54.3696.2106" timestamp="1601911067729" />
+    <state x="1487" y="469" width="1000" height="1300" key="refactoring.ChangeSignatureDialog" timestamp="1600514210355">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1487" y="469" width="1000" height="1300" key="refactoring.ChangeSignatureDialog/144.54.3696.2106@144.54.3696.2106" timestamp="1600514210355" />
+    <state x="1270" y="54" width="1440" height="2102" key="search.everywhere.popup" timestamp="1602228996800">
+      <screen x="144" y="54" width="3696" height="2106" />
+    </state>
+    <state x="1270" y="54" width="1440" height="2102" key="search.everywhere.popup/144.54.3696.2106@144.54.3696.2106" timestamp="1602228996800" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/app/src/main/jni/src/KittyMemory/KittyMemory.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+[arm64-v8a] Compile++      : MyLibName <= Main.cpp
+[arm64-v8a] Compile++      : MyLibName <= MeetingHud.cpp
+[arm64-v8a] Compile++      : MyLibName <= PlayerControl.cpp
+[arm64-v8a] Compile++      : MyLibName <= ShhhBehaviour.cpp
+[arm64-v8a] Compile++      : MyLibName <= UnityEngine.cpp
+[arm64-v8a] SharedLibrary  : libMyLibName.so

@@ -1,0 +1,2 @@
+[armeabi-v7a] Compile++ arm  : MyLibName <= PlayerControl.cpp
+[armeabi-v7a] SharedLibrary  : libMyLibName.so

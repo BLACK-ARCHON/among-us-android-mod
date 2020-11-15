@@ -1,0 +1,14 @@
+Executable : /home/user/Android/Sdk/ndk/21.3.6528147/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/src/main/jni/Android.mk
+NDK_APPLICATION_MK=/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/src/main/jni/Application.mk
+APP_ABI=arm64-v8a
+NDK_ALL_ABIS=arm64-v8a
+NDK_DEBUG=1
+APP_PLATFORM=android-17
+NDK_OUT=/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/build/intermediates/ndkBuild/debug/lib
+MyLibName
+jvmArgs : 
+

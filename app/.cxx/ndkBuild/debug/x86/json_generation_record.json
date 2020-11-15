@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 17 min SDK version: x86",
+    "file": "/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/src/main/jni/Android.mk",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/.cxx/ndkBuild/debug/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/src/main/jni/Android.mk",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/home/user/work/android/mod/AmongUs/Android-Mod-Menu/app/src/main/jni/Android.mk",
+    "tag": "debug|x86"
+  }
+]
