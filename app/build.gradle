@@ -4,7 +4,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId "uk.lgl.modmenu"
-        minSdkVersion 17
+        minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
         versionName "1.4"
@@ -31,7 +31,7 @@ android {
             path file('src/main/jni/Android.mk')
         }
     }
-    ndkVersion = '21.3.6528147'
+    ndkVersion = '22.0.7026061'
     dependencies {
         implementation fileTree(dir: 'libs', include: ['*.jar'])
     }

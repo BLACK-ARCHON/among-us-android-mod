@@ -20,7 +20,3 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 #-dontobfuscate
--keepclassmembers class ** {
-   public static void Start (***);
-}
--keep public class uk.lgl.modmenu.StaticActivity
