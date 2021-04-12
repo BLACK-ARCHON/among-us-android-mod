@@ -8,10 +8,12 @@ include $(CLEAR_VARS)
 LOCAL_MODULE    := MyLibName
 
 # Code optimization
-LOCAL_CFLAGS := -Wno-error=format-security -fpermissive -w -s -Werror -Wold-style-cast -fms-extensions -Wno-narrowing
-LOCAL_CFLAGS += -fno-rtti -fno-exceptions -fvisibility=hidden -ffunction-sections -fdata-sections -stdlib=libc++
-LOCAL_CPPFLAGS += -fvisibility=hidden -ffunction-sections -fdata-sections -w -std=c++14
-LOCAL_LDFLAGS += -Wl,--gc-sections,--strip-all
+# -std=c++17 is required to support AIDE app with NDK
+LOCAL_CFLAGS := -Wno-error=format-security -fvisibility=hidden -ffunction-sections -fdata-sections -w
+LOCAL_CFLAGS += -fno-rtti -fno-exceptions -fpermissive
+LOCAL_CPPFLAGS := -Wno-error=format-security -fvisibility=hidden -ffunction-sections -fdata-sections -w -Werror -s -std=c++17
+LOCAL_CPPFLAGS += -Wno-error=c++11-narrowing -fms-extensions -fno-rtti -fno-exceptions -fpermissive
+LOCAL_LDFLAGS += -Wl,--gc-sections,--strip-all, -llog
 LOCAL_ARM_MODE := arm
 
 # Here you add the cpp file
@@ -44,6 +46,6 @@ LOCAL_SRC_FILES := src/Main.cpp \
     src/KittyMemory/KittyUtils.cpp \
 	src/And64InlineHook/And64InlineHook.cpp
 
-LOCAL_LDLIBS := -llog -landroid
+LOCAL_LDLIBS := -llog -landroid -lGLESv2
 
 include $(BUILD_SHARED_LIBRARY)

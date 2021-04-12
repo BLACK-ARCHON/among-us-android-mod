@@ -275,7 +275,11 @@ Java_uk_lgl_modmenu_Preferences_Changes(JNIEnv *env, jclass clazz, jobject obj,
     }
 }
 
+
+
 void *doHack(void *) {
+
+    libName = "libil2cpp.so";
     do {
         sleep(1);
     } while (!isLibraryLoaded(libName));

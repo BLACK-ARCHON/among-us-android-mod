@@ -178,6 +178,10 @@ void PlayerControl::DisableEmptyName() {
     emptyName = false;
 }
 
+void PlayerControl::EmptyName() {
+    emptyName = true;
+}
+
 void PlayerControl::ReportSomeone() {
     if(initialized) {
         int retries = 0;
